@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("Hello, World!");
 
+//repeticao while
 Random numeroAleatorio = new Random();
 int numero = numeroAleatorio.Next(1, 101);
 int contador = 0;
@@ -20,3 +21,10 @@ do
     Console.WriteLine($"Numero:{numero1}");
     numero++;
 }while (numero1 < 10);
+
+// estrutura de repeticao for 
+
+for (int i = 0; i <= 10; i++)
+{
+    Console.WriteLine($"Valor de i:{i}");
+}
