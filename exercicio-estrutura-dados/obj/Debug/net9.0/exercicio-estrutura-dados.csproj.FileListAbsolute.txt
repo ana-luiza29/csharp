@@ -1,0 +1,15 @@
+T:\Workspace\Ana Luiza\csharp\exercicio-estrutura-dados\bin\Debug\net9.0\exercicio-estrutura-dados.exe
+T:\Workspace\Ana Luiza\csharp\exercicio-estrutura-dados\bin\Debug\net9.0\exercicio-estrutura-dados.deps.json
+T:\Workspace\Ana Luiza\csharp\exercicio-estrutura-dados\bin\Debug\net9.0\exercicio-estrutura-dados.runtimeconfig.json
+T:\Workspace\Ana Luiza\csharp\exercicio-estrutura-dados\bin\Debug\net9.0\exercicio-estrutura-dados.dll
+T:\Workspace\Ana Luiza\csharp\exercicio-estrutura-dados\bin\Debug\net9.0\exercicio-estrutura-dados.pdb
+T:\Workspace\Ana Luiza\csharp\exercicio-estrutura-dados\obj\Debug\net9.0\exercicio-estrutura-dados.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Ana Luiza\csharp\exercicio-estrutura-dados\obj\Debug\net9.0\exercicio-estrutura-dados.AssemblyInfoInputs.cache
+T:\Workspace\Ana Luiza\csharp\exercicio-estrutura-dados\obj\Debug\net9.0\exercicio-estrutura-dados.AssemblyInfo.cs
+T:\Workspace\Ana Luiza\csharp\exercicio-estrutura-dados\obj\Debug\net9.0\exercicio-estrutura-dados.csproj.CoreCompileInputs.cache
+T:\Workspace\Ana Luiza\csharp\exercicio-estrutura-dados\obj\Debug\net9.0\exercicio-estrutura-dados.sourcelink.json
+T:\Workspace\Ana Luiza\csharp\exercicio-estrutura-dados\obj\Debug\net9.0\exercicio-estrutura-dados.dll
+T:\Workspace\Ana Luiza\csharp\exercicio-estrutura-dados\obj\Debug\net9.0\refint\exercicio-estrutura-dados.dll
+T:\Workspace\Ana Luiza\csharp\exercicio-estrutura-dados\obj\Debug\net9.0\exercicio-estrutura-dados.pdb
+T:\Workspace\Ana Luiza\csharp\exercicio-estrutura-dados\obj\Debug\net9.0\exercicio-estrutura-dados.genruntimeconfig.cache
+T:\Workspace\Ana Luiza\csharp\exercicio-estrutura-dados\obj\Debug\net9.0\ref\exercicio-estrutura-dados.dll
