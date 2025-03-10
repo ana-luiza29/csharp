@@ -1,0 +1,15 @@
+T:\Workspace\Ana Luiza\csharp\exercicio-da-classes\obj\Debug\net9.0\exercicio-da-classes.GeneratedMSBuildEditorConfig.editorconfig
+T:\Workspace\Ana Luiza\csharp\exercicio-da-classes\obj\Debug\net9.0\exercicio-da-classes.AssemblyInfoInputs.cache
+T:\Workspace\Ana Luiza\csharp\exercicio-da-classes\obj\Debug\net9.0\exercicio-da-classes.AssemblyInfo.cs
+T:\Workspace\Ana Luiza\csharp\exercicio-da-classes\obj\Debug\net9.0\exercicio-da-classes.csproj.CoreCompileInputs.cache
+T:\Workspace\Ana Luiza\csharp\exercicio-da-classes\obj\Debug\net9.0\exercicio-da-classes.sourcelink.json
+T:\Workspace\Ana Luiza\csharp\exercicio-da-classes\bin\Debug\net9.0\exercicio-da-classes.exe
+T:\Workspace\Ana Luiza\csharp\exercicio-da-classes\bin\Debug\net9.0\exercicio-da-classes.deps.json
+T:\Workspace\Ana Luiza\csharp\exercicio-da-classes\bin\Debug\net9.0\exercicio-da-classes.runtimeconfig.json
+T:\Workspace\Ana Luiza\csharp\exercicio-da-classes\bin\Debug\net9.0\exercicio-da-classes.dll
+T:\Workspace\Ana Luiza\csharp\exercicio-da-classes\bin\Debug\net9.0\exercicio-da-classes.pdb
+T:\Workspace\Ana Luiza\csharp\exercicio-da-classes\obj\Debug\net9.0\exercicio-da-classes.dll
+T:\Workspace\Ana Luiza\csharp\exercicio-da-classes\obj\Debug\net9.0\refint\exercicio-da-classes.dll
+T:\Workspace\Ana Luiza\csharp\exercicio-da-classes\obj\Debug\net9.0\exercicio-da-classes.pdb
+T:\Workspace\Ana Luiza\csharp\exercicio-da-classes\obj\Debug\net9.0\exercicio-da-classes.genruntimeconfig.cache
+T:\Workspace\Ana Luiza\csharp\exercicio-da-classes\obj\Debug\net9.0\ref\exercicio-da-classes.dll
