@@ -2,6 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using classes.Modelo;
 
 namespace classes.Modelo
 {}
@@ -30,4 +31,6 @@ namespace classes.Modelo
     {
     Console.WriteLine($"{nome} Vou ficar rico programando em C#!");
     }
+
+
 }
