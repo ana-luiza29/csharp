@@ -44,5 +44,14 @@ namespace POO.model
             velocidadeatual += incremento;
             Console.WriteLine($"A moto conseguiu e atingiu a velocidade de {velocidadeatual} km/h ");
         }
+        public override void ObterDadosDoVeiculo()
+ {
+            Console.WriteLine($"\nDados da moto:\n");
+            Console.WriteLine($"Marca: {GetMarca()}");
+            Console.WriteLine($"Modelo: {GetModelo()}");
+            Console.WriteLine($"Ano: {GetAno()}");
+            Console.WriteLine($"Partida elétrica: ({GetPartidaEletrica()? "Sim":"Nao")}");
+            Console.WriteLine($"Protetor de carenagem: ({GetProtetorDeCarenagem()?"Sim":"Nao")}");
+        }
     }
 }
