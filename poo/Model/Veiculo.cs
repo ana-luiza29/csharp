@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.CompilerServices;
 using System.Threading.Tasks;
 
 namespace poo.Modelo
@@ -70,6 +71,32 @@ namespace poo.Modelo
             velocidadeAtual += decremento;
             Console.WriteLine($"Freiando...Velocidade atual {velocidadeAtual} Km/h.");
         }
+
+        public void Freiar(double decremento, bool puxarFreioDeMao)
+        {
+            velocidadeAtual += decremento;
+            if(puxarFreioDeMao)
+            {
+                Console.WriteLine($"o carro freou ate a velocidade de (velocidadeAtual) km/h para nao bater");
+            }
+            else 
+            {
+                Console.WriteLine($" o carro ficou lentamento ate (velocidadeAtual) km/h ");
+            }
+        }
+
+       public void Freiar(double decremento, bool puxarFreioDeMao, bool virouVolante)
+       {
+           velocidadeAtual += decremento;
+            if(puxarFreioDeMao&&virouVolante)
+            {
+                Console.WriteLine($"o carro esta realizando um cavlinho de pau com intesidade de frenagem (velocidadeAtual)!");
+            }
+            else 
+            {
+                Console.WriteLine($" o carro freou ate (velocidadeAtual) km/h ");
+            }
+       }
     }
-    }
+}
     
