@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace poo.Modelo
 {
-    public class Veiculo
+    public abstract class Veiculo
     {
             //Atributos
        private string marca;
@@ -97,6 +97,20 @@ namespace poo.Modelo
                 Console.WriteLine($" o carro freou ate (velocidadeAtual) km/h ");
             }
        }
+       public abstract class Veiculo
+       { 
+        // Atributos
+
+        // Construtor
+
+        //Getters e setters para cada atributo 
+
+        // Metodos acelerar
+
+       }
+        public abstract void ObterDadosDoVeiculo();
+
+       
     }
 }
     
