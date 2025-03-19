@@ -18,7 +18,7 @@ class Program
 
         double resultado = 0;
 
-        
+        // *Verifica qual operação foi escolhida*
         switch (operacao)
         {
             case "+":
@@ -38,7 +38,7 @@ class Program
                 return; 
         }
 
-
+        
         Console.WriteLine($"Resultado: {resultado}");
     }
 }
