@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("exercicio-jodo-de-batalha-poo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cade22eb6c73fc45c117ff5744853f87bdcd0dbd")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+200b6c8b5d69552b485377f9393a5913c77d83ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("exercicio-jodo-de-batalha-poo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("exercicio-jodo-de-batalha-poo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
