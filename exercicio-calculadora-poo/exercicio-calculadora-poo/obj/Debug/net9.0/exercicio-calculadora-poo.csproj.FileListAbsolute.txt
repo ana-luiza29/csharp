@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-calculadora-poo\exercicio-calculadora-poo\bin\Debug\net9.0\exercicio-calculadora-poo.exe
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-calculadora-poo\exercicio-calculadora-poo\bin\Debug\net9.0\exercicio-calculadora-poo.deps.json
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-calculadora-poo\exercicio-calculadora-poo\bin\Debug\net9.0\exercicio-calculadora-poo.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-calculadora-poo\exercicio-calculadora-poo\bin\Debug\net9.0\exercicio-calculadora-poo.dll
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-calculadora-poo\exercicio-calculadora-poo\bin\Debug\net9.0\exercicio-calculadora-poo.pdb
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-calculadora-poo\exercicio-calculadora-poo\obj\Debug\net9.0\exercicio-calculadora-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-calculadora-poo\exercicio-calculadora-poo\obj\Debug\net9.0\exercicio-calculadora-poo.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-calculadora-poo\exercicio-calculadora-poo\obj\Debug\net9.0\exercicio-calculadora-poo.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-calculadora-poo\exercicio-calculadora-poo\obj\Debug\net9.0\exercicio-calculadora-poo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-calculadora-poo\exercicio-calculadora-poo\obj\Debug\net9.0\exercicio-calculadora-poo.sourcelink.json
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-calculadora-poo\exercicio-calculadora-poo\obj\Debug\net9.0\exercicio-calculadora-poo.dll
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-calculadora-poo\exercicio-calculadora-poo\obj\Debug\net9.0\refint\exercicio-calculadora-poo.dll
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-calculadora-poo\exercicio-calculadora-poo\obj\Debug\net9.0\exercicio-calculadora-poo.pdb
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-calculadora-poo\exercicio-calculadora-poo\obj\Debug\net9.0\exercicio-calculadora-poo.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-calculadora-poo\exercicio-calculadora-poo\obj\Debug\net9.0\ref\exercicio-calculadora-poo.dll
