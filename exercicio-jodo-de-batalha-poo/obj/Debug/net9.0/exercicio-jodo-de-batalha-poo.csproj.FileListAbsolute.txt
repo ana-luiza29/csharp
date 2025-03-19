@@ -1,0 +1,15 @@
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-jodo-de-batalha-poo\bin\Debug\net9.0\exercicio-jodo-de-batalha-poo.exe
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-jodo-de-batalha-poo\bin\Debug\net9.0\exercicio-jodo-de-batalha-poo.deps.json
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-jodo-de-batalha-poo\bin\Debug\net9.0\exercicio-jodo-de-batalha-poo.runtimeconfig.json
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-jodo-de-batalha-poo\bin\Debug\net9.0\exercicio-jodo-de-batalha-poo.dll
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-jodo-de-batalha-poo\bin\Debug\net9.0\exercicio-jodo-de-batalha-poo.pdb
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-jodo-de-batalha-poo\obj\Debug\net9.0\exercicio-jodo-de-batalha-poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-jodo-de-batalha-poo\obj\Debug\net9.0\exercicio-jodo-de-batalha-poo.AssemblyInfoInputs.cache
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-jodo-de-batalha-poo\obj\Debug\net9.0\exercicio-jodo-de-batalha-poo.AssemblyInfo.cs
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-jodo-de-batalha-poo\obj\Debug\net9.0\exercicio-jodo-de-batalha-poo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-jodo-de-batalha-poo\obj\Debug\net9.0\exercicio-jodo-de-batalha-poo.sourcelink.json
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-jodo-de-batalha-poo\obj\Debug\net9.0\exercicio-jodo-de-batalha-poo.dll
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-jodo-de-batalha-poo\obj\Debug\net9.0\refint\exercicio-jodo-de-batalha-poo.dll
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-jodo-de-batalha-poo\obj\Debug\net9.0\exercicio-jodo-de-batalha-poo.pdb
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-jodo-de-batalha-poo\obj\Debug\net9.0\exercicio-jodo-de-batalha-poo.genruntimeconfig.cache
+C:\Users\Aluno\Documents\GitHub\csharp\exercicio-jodo-de-batalha-poo\obj\Debug\net9.0\ref\exercicio-jodo-de-batalha-poo.dll

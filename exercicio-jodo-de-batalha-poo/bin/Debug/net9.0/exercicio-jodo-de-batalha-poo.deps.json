@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "exercicio-jodo-de-batalha-poo/1.0.0": {
+        "runtime": {
+          "exercicio-jodo-de-batalha-poo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio-jodo-de-batalha-poo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
